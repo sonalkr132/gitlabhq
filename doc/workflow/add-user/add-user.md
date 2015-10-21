@@ -15,7 +15,7 @@ Select "Add members" or "Import members" on the right side of your screen:
 
 ![Add or Import](images/add-members.png)
 
-If you are adding a user, select the user and the [permission level](doc/permissions/permissions.md) that you'd like to
+If you are adding a user, select the user and the [permission level](../../permissions/permissions.md) that you'd like to
 give the user:
 
 ![Add or Import](images/new-member.png)
